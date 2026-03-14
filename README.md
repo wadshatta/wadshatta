@@ -24,14 +24,14 @@
 
 ```python
 class Fakhareldin:
-    role       = "Cybersecurity Professional"
+    role       = "Cybersecurity Professional & Web Developer"
     location   = "Germany 🇩🇪"
-    focus      = ["Penetration Testing", "Offensive Security", "CTF"]
+    focus      = ["Penetration Testing", "Offensive Security", "CTF", "Web Development (PHP/Laravel)"]
     certs      = ["eJPT", "TryHackMe LEGEND"]
     thm_rank   = "Top 17,930 Worldwide | 174 Rooms Completed"
     experience = "3-5 years in IT & Security"
     learning   = ["PNPT", "OSCP"]
-    languages  = {"Arabic": "Native", "English": "Professional", "German": "B1"}
+    languages  = {"Arabic": "Native 🇸🇩", "English": "Professional 🇬🇧", "German": "B1 🇩🇪", "Russian": "Conversational 🇷🇺"}
 ```
 
 ---
@@ -59,6 +59,17 @@ class Fakhareldin:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
 **Programming & Scripting**
 
@@ -101,6 +112,17 @@ class Fakhareldin:
 - 🎯 Active on **HackTheBox** & **TryHackMe**
 - 📖 Improving **German** (B1 → B2)
 - 🌱 Building **Offensive Security** Portfolio
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|---|---|
+| 🇸🇩 Arabic | Native |
+| 🇬🇧 English | Professional |
+| 🇷🇺 Russian | Conversational |
+| 🇩🇪 German | B1 (Improving) |
 
 ---
 
